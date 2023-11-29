@@ -1,0 +1,1 @@
+https://github.com/zomsik/lab6-kubernetes
